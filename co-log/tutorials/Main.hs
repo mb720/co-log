@@ -10,6 +10,8 @@
 {-# LANGUAGE PatternSynonyms            #-}
 {-# LANGUAGE TypeApplications           #-}
 {-# LANGUAGE TypeSynonymInstances       #-}
+{-# LANGUAGE ScopedTypeVariables       #-}
+
 
 module Main where
 
